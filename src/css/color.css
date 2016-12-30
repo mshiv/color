@@ -18,7 +18,7 @@ input: focus {
     text-align: center;
 }
 
-#color-app {
+#color-container {
     display: inline-block;
     margin-top: 150px;
 }
