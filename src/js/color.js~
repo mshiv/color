@@ -25,7 +25,7 @@ class Color extends React.Component {
 
 function ColorInput(props) {
 	return (
-		<input placeholder = "Enter color name or hex-code here" id = "color-input" value = {props.colorVal} onChange= {props.onChange} />
+		<input placeholder = "Enter color (code) here" id = "color-input" value = {props.colorVal} onChange= {props.onChange} />
 	);
 }
 
