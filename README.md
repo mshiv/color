@@ -12,14 +12,14 @@ The input box should initially prompt the user with something like "Enter a colo
 
 Use a modern Javascript MV* library like React, Backbone, Ember, Angular, etc. 
 Inline styling and javascript code is fine. 
-For page styling, feel free to make things sparse but presentable.
+For page styling, make things sparse but presentable.
 
 ## Tools used
 
 * [React] (https://facebook.github.io/react/) : JavaScript library
 * [Webpack] (http://webpack.github.io/docs/what-is-webpack.html) : Module bundler
 
-Webpack makes use of the [Babel](https://github.com/babel/babel-loader) module to load into JavaScript. 
+Webpack makes use of the [Babel](https://github.com/babel/babel-loader) module to load into JavaScript. [UglifyJS] (https://github.com/mishoo/UglifyJS2) is used to optimize the JS source files.
 
 ## About
 
