@@ -19,11 +19,9 @@ For page styling, feel free to make things sparse but presentable.
 * [React] (https://facebook.github.io/react/) : JavaScript library
 * [Webpack] (http://webpack.github.io/docs/what-is-webpack.html) : Module bundler
 
+Webpack makes use of the [Babel](https://github.com/babel/babel-loader) module to load into JavaScript. 
+
 ## About
 
 This app is built with React and packaged using Webpack. 
-Standard HTML Color names are valid inputs, as are hexadecimal color codes (3 and 6 digit). However, hex codes need to start with "#":
-
-```
-#0f0bb
-```
+Standard HTML Color names are valid inputs, as are hexadecimal color codes (3 and 6 digit). Hex codes need to start with a "#".
