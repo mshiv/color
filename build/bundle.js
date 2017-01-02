@@ -99,7 +99,7 @@
 	}(_react2.default.Component);
 	
 	function ColorInput(props) {
-		return _react2.default.createElement('input', { placeholder: 'Enter color (code) here', id: 'color-input', value: props.colorVal, onChange: props.onChange });
+		return _react2.default.createElement('input', { placeholder: 'Enter color name or hex-code here', id: 'color-input', value: props.colorVal, onChange: props.onChange });
 	}
 	
 	function ColorDisplay(props) {
@@ -21854,4 +21854,4 @@
 
 /***/ }
 /******/ ]);
-//# sourceMappingURL=color.bundle.js.map
+//# sourceMappingURL=bundle.js.map

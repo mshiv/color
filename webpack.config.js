@@ -5,7 +5,7 @@ module.exports = {
     entry: './src/js/color.js',
     output: {
         path: path.resolve(__dirname, 'build'),
-        filename: 'color.bundle.js'
+        filename: 'bundle.js'
     },
     module: {
         loaders: [
