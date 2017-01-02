@@ -22,5 +22,8 @@ For page styling, feel free to make things sparse but presentable.
 ## About
 
 This app is built with React and packaged using Webpack. 
-Standard HTML Color names are valid inputs, as are hexadecimal color codes (3 and 6 digit).
+Standard HTML Color names are valid inputs, as are hexadecimal color codes (3 and 6 digit). However, hex codes need to start with "#":
 
+```
+#0f0bb
+```
