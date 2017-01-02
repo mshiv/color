@@ -9,7 +9,7 @@ class Color extends React.Component {
 	}
 
 	handleChange () {
-		const value = document.getElementById("color-input").value;
+		var value = document.getElementById("color-input").value;
 		this.setState ({colorText: value});
 	}
 
