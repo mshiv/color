@@ -1,5 +1,5 @@
 {
-  "name": "color",
+  "name": "planet-color",
   "version": "0.0.0",
   "description": "JavaScript take home problem",
   "main": "webpack.config.js",
