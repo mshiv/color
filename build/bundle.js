@@ -72,7 +72,7 @@
 	
 			var _this = _possibleConstructorReturn(this, (Color.__proto__ || Object.getPrototypeOf(Color)).call(this));
 	
-			_this.state = { colorText: "brown" };
+			_this.state = { colorText: "turquoise" };
 			_this.handleChange = _this.handleChange.bind(_this);
 			return _this;
 		}

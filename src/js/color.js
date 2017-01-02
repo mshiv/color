@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 class Color extends React.Component {
 	constructor () {
 		super();
-		this.state = {colorText : "brown"};
+		this.state = {colorText : "turquoise"};
 		this.handleChange = this.handleChange.bind(this);
 	}
 
